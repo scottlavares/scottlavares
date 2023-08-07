@@ -22,11 +22,8 @@
 - 🔒 Learning security architecture
 - 🐍 Developing Python scripts for automating security tasks
 - 📚 Constantly learning about new vulnerabilities and ways to mitigate them
-- 🌐 Staying updated on evolving cyber threats
-- 💡 Spreading cybersecurity knowledge across platforms
 - 🧠 Gaining expertise in offensive and defensive cybersecurity
 - 🖥️ Operating cybersecurity homelabs for practical experience
-- 👥 Collaborating with other security professionals for knowledge exchange
 - 📘 Developing guides for security best practices
 - 💻 Exploring various security tools and software
 
