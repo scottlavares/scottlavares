@@ -31,7 +31,6 @@
 
 [<img align="left" alt="ScottLavares | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ScottLavares | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />][gmail]
 
 [instagram]: https://www.instagram.com/scottlavares/
 [linkedin]: https://www.linkedin.com/in/scottlavares/
