@@ -17,6 +17,12 @@
 - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JB7AHWAEP7WZ)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5BGHA2L3MVBE)
 
+## 🛡️ What I'm focused on
+
+- 🔒 Improving security architecture
+- 🐍 Developing Python scripts for automating security tasks
+- 📚 Constantly learning about new vulnerabilities and ways to mitigate them
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
