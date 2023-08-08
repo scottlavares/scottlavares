@@ -25,6 +25,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://github.com/actions/starter-workflows/blob/main/icons/powershell.svg" alt="elasticsearch" width="40" height="40"/> </a> 
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
 </p>
 
 ## 🛡️ What I'm focused on
@@ -49,7 +51,7 @@
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**scottlavares/scottlavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
