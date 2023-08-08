@@ -17,6 +17,10 @@
 - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JB7AHWAEP7WZ)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5BGHA2L3MVBE)
 
+## 🛠️ Languages & Tools
+
+
+
 ## 🛡️ What I'm focused on
 
 - 🔒 Learning security architecture
