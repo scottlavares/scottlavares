@@ -4,7 +4,7 @@
 
 - <b>Secrity Infrastructure (pfSense, Security Onion, Active Directory, Kali Linux, Splunk)</b>
   - [Setting up a Cybersecurity Homelab for Intrusion Detection and Monitoring](https://www.staticsquid.com/blog/setting-up-a-cybersecurity-homelab-for-intrusion-detection-and-monitoring)
-- <b>PowerShell</b>  
+  - [Implementing an Advanced Threat Detection System with Azure Sentinel (SIEM)](https://www.staticsquid.com/blog/implementing-an-advanced-threat-detection-system-with-azure-sentinel-(siem)) 
 - <b>Python</b>
 
 
