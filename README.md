@@ -13,6 +13,13 @@
 - <b>Rest API (Node.JS, Express)</b>
   - [Setting up a Basic Rest API](https://www.staticsquid.com/blog/setting-up-a-basic-rest-api) 
 - <b>Python</b>
+  - Network Tracking Using Wireshark + Google Maps
+  - Build Anonymous FTP Scanner
+  - Nmap and Python scripting (Information Gathering)
+  - How To Crack Passwords (Dictionary Attack)
+  - Find Deleted Files
+  - Zip File Password Cracker
+  - Brute Force FTP
 
 
 <h2>📝 Latest Blog Posts</h2>
