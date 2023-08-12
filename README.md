@@ -9,7 +9,9 @@
 - <b>Building a FIM (Powershell/Python)</b>
   - [Building an Efficient File Integrity Monitor](https://www.staticsquid.com/blog/building-an-efficient-file-integrity-monitor)
 - <b>Vulnerability Management (Nessus)</b>
-  - [Vulnerability Scanning With Nessus](https://www.staticsquid.com/blog/vulnerability-scanning-with-nessus) 
+  - [Vulnerability Scanning With Nessus](https://www.staticsquid.com/blog/vulnerability-scanning-with-nessus)
+- <b>Rest API</b>
+  - [Setting up a Basic Rest API](https://www.staticsquid.com/blog/setting-up-a-basic-rest-api) 
 - <b>Python</b>
 
 
