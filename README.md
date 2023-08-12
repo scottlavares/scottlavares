@@ -7,7 +7,9 @@
 - <b>Azure Sentinel + Honeypot (Powershell)</b>
   - [Implementing an Advanced Threat Detection System with Azure Sentinel (SIEM)](https://www.staticsquid.com/blog/implementing-an-advanced-threat-detection-system-with-azure-sentinel-(siem))
 - <b>Building a FIM (Powershell/Python)</b>
-  - [Building an Efficient File Integrity Monitor](https://www.staticsquid.com/blog/building-an-efficient-file-integrity-monitor) 
+  - [Building an Efficient File Integrity Monitor](https://www.staticsquid.com/blog/building-an-efficient-file-integrity-monitor)
+- <b>Vulnerability Management(Nessus)</b>
+  - [Vulnerability Scanning With Nessus](https://www.staticsquid.com/blog/vulnerability-scanning-with-nessus) 
 - <b>Python</b>
 
 
