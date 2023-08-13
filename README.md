@@ -24,6 +24,12 @@
   - Create a Port Scanner
   - Spam Detection Using Machine learning
 
+<h2>💻 Other Projects</h2>
+
+- <b>Amazon</b>
+  - Amazon FBA Script
+- <b>Flipper Zero</b>
+  - BadUSB Ducky Scripts
 
 <h2>📝 Latest Blog Posts</h2>
 
