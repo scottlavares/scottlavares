@@ -21,6 +21,8 @@
   - Zip File Password Cracker
   - Brute Force FTP
   - Build a Keylogger
+  - Create a Port Scanner
+  - Spam Detection Using Machine learning
 
 
 <h2>📝 Latest Blog Posts</h2>
