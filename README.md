@@ -20,6 +20,7 @@
   - Find Deleted Files
   - Zip File Password Cracker
   - Brute Force FTP
+  - Build a Keylogger
 
 
 <h2>📝 Latest Blog Posts</h2>
