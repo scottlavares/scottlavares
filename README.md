@@ -34,7 +34,7 @@
 <h2>📝 Latest Blog Posts</h2>
 
 - [Unraveling Information Security](https://www.staticsquid.com/blog/unraveling-information-security)
-
+- [Finding your Digital Footprint](https://www.staticsquid.com/blog/finding-your-digital-footprint)
 ## 🎓 Certifications
 
 - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JB7AHWAEP7WZ)
