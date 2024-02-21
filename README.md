@@ -41,6 +41,7 @@
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5BGHA2L3MVBE)
 - CompTIA A+
 - CompTIA Network+
+- ITIL 4
 
 ## 🛠️ Languages & Tools
 
