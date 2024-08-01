@@ -42,6 +42,7 @@
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
+- SSCP
 - ITIL 4
 
 ## 🛠️ Languages & Tools
